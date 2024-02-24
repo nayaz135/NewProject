@@ -21,6 +21,10 @@
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
   </properties>
 
+    <properties>
+       <maven-compiler-plugin-version>2.3.2</maven-compiler-plugin-version>
+    </properties>
+
   <modules>
     <module>server</module>
     <module>webapp</module>
